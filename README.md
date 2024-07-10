@@ -37,5 +37,10 @@ some different methods have been implemented there for sentiment analysis. But a
 
 To creat an endpoint api , Flask library has used. to Run api follow this instruction: 
 
+pyhton email_analyser_API.py
+
+In a new terminal enter your input as Jason format. Follow the provided example to POST your request to API. 
+
+
 
 
