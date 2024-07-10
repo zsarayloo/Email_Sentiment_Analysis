@@ -24,8 +24,10 @@ To find more information on the Enron dataset use this link : https://www.cs.cmu
 To run the code, we need some libraries, by running the setup.sh code , all the libraries have been installed.
 The names of all libraries have been written in req_libraries.txt file. 
 
-You need to make the setup.sh script executable before running the setup.sh. Run the following command in your terminal:
+You need to make the setup.sh script executable before running the ./setup.sh. Run the following command in your terminal:
 
 chmod +x setup.sh
-./setup.sh
+
+#
+
 
