@@ -33,7 +33,7 @@ chmod +x setup.sh
 Before running the api, run the main.py. This code make some model that are used in the final api. Also, it managed the dataset and you can find the related code there. 
 some different methods have been implemented there for sentiment analysis. But at the final step just two of them are selected. The other method such as BERT and transformer have commented to reduce computational resourcses. 
 
-@ Run API
+# Run API
 
 To creat an endpoint api , Flask library has used. to Run api follow this instruction: 
 
